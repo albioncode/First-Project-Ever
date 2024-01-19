@@ -1,0 +1,48 @@
+body {
+    background-image: url('peaky.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+h1 {
+    text-align: center;
+    text-shadow: red;
+}
+p {
+    text-align-last: center;
+}
+
+.bli {
+   width: 50%;
+}
+
+
+
+ .albi {
+    text-decoration: none;
+    text-transform: initial;
+ }
+
+ .peaky3 {
+   width: 50%;
+   float: right;
+ }
+
+ .bullet {
+    width: 50%;
+    float: left;
+ }
+ .bullet2 {
+    width: 10%;
+    float: right;
+ }
+
+ .back-button a{
+   font-size: 40px;
+   color: #7E868A;
+   text-decoration: none;
+}
+.back-button a:hover{
+   color: white;
+}

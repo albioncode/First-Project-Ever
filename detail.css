@@ -1,0 +1,234 @@
+body {
+    background-color: black;
+}
+.sec-full{
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-y: 100%;
+    background-image: url('peaky.jpg');
+    width: 100%;
+}
+
+.sec-full h3{
+    font-family: 'Cinzel', serif;
+}
+.sec-full .back-button {
+    text-align: center;
+    position: relative;
+    margin-left: 0%;
+    padding-top: 1%;
+    width: 1%;
+    padding-bottom: 3%;
+}
+.sec-full .back-button a{
+    font-size: 40px;
+    color: #7E868A;
+    text-decoration: none;
+}
+.sec-full .back-button a:hover{
+    color: white;
+}
+.sec-first{
+    display: flex;
+    flex-direction: row;
+    color: #7E868A;
+}
+.sec-first .foto{
+    padding-left: 2%;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+}
+.sec-first .foto h3, p{
+    font-size: 1.2vw;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+.sec-first .foto2 img{
+    padding-top: 30%;
+    width: 100%;
+}
+.sec-first .foto2{
+    padding-left: 18%;
+    width: 30%;
+}
+
+.sec-first .foto2 h3, p{
+    font-size: 1.2vw;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.sec-first .katrori{
+    width: 7.5%;
+    padding-left: 10%;
+    padding-top: 20%;
+
+}
+.sec-first .katrori div{
+    width: 100%;
+    height: 25%;
+    background-image: url('bullet-amm-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-second{
+    font-size: 1.2vw;
+    padding-top: 5%;
+    display: flex;
+    flex-direction: row;
+    width: 92.3%;
+
+}
+.sec-second .qika h3, p{
+    color: #7E868A;
+}
+.sec-second .qika h3{
+    padding-left: 5%;
+}
+.sec-second .qika{
+    padding-left: 5%;
+    width: 40%;
+}
+.sec-second .kimjungi{
+    padding-top: 5%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.sec-second .qika img{
+    width: 100%;
+}
+.sec-second .kimjungi img{
+    padding-left: 50%;
+    width: 50%;
+}
+.sec-second .kimjungi p, h3{
+    color: #7E868A;
+    padding-left: 52%;
+}
+.sec-third{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec-third div{
+    align-items: center;
+}
+.sec-third div img{
+    width: 30vw;
+}
+.sec-fourth{
+    padding-top: 10%;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.sec-fourth .prindi-i-rrethit{
+    width: 30%;
+}
+.sec-fourth .rrethi{
+    margin-left: 10%;
+    margin-top: 30%;
+    height: 10vw;
+    width: 40%;
+    background-image: url('bullet-amm-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-fourth .fotoja{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+.sec-fourth .fotoja img{
+    transform: translateX(-35%);
+    padding-bottom: 3%;
+    width: 100%;
+}
+.sec-fourth .fotoja a{
+    font-size: 1.2vw;
+    margin-top: -5%;
+    margin-left: 45%;
+    width: fit-content;
+  color: white;    
+}
+.sec-fifth{
+    padding-left: 13%;
+    padding-top: 10%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+}
+.sec-fifth .fotoja{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width:50%;
+}
+
+.sec-fifth .fotoja a{
+    color: white;
+    font-size: 1.2vw;
+}
+.sec-fifth .fotoja img{
+    width: 100%;
+}
+.sec-fifth .katrori{
+    padding-top: 15%;
+    padding-left: 35%;
+    width: 15%;
+}
+.sec-fifth .katrori img{
+    padding-top: 80%;
+    width: 100%;
+}
+
+.sec-sixth{
+    
+    padding-top: 20%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.sec-sixth .fillimi img{
+    margin-left: 5%;
+    width: 35vw;
+}
+.sec-sixth .detalet{
+    font-family: 'Bebas Neue', cursive;
+    -webkit-box-shadow: 0px 0px 35px 22px #000000; 
+    box-shadow: 0px 0px 35px 22px #000000;
+    background-clip: border-box;
+    padding-top: 3%;
+    margin-left: 5%;
+    width: 40%;
+}
+.sec-sixth .second-vija{
+    border: 1px solid #7E868A;
+}
+.sec-sixth .third-text{
+    display: flex;
+    flex-direction: row;
+}
+.sec-sixth .third-text .first{
+    width: 80%;
+}
+.sec-sixth .third-text .second{
+    width: 20%;
+}
+
+.sec-seventh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.sec-seventh img{
+    width: 30%;
+}
+

@@ -1,0 +1,29 @@
+body {
+    background-image: url('peaky.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: orangered;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    text-shadow: orangered;
+}
+.back-button a{
+    font-size: 40px;
+    color: #7E868A;
+    text-decoration: none;
+}
+.back-button a:hover{
+    color: white;
+}
